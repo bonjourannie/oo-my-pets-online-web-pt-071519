@@ -7,8 +7,6 @@ class Owner
     @species = "human" 
   end
   
-  # def species(human)
-  #   @human = human
-  # end
+  def 
   
 end
