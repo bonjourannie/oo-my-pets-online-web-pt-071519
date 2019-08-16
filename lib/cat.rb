@@ -8,4 +8,6 @@ class Cat
     @owner = owner
   end
   
+  def mood()
+  
 end
